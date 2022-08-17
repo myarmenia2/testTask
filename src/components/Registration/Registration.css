@@ -1,0 +1,37 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.form-registration {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+    margin: 10px 0;
+    color: grey;
+}
+
+.link:hover {
+    color: black;
+}
+
+button {
+    max-width: 225px;
+    width: 100%;
+    border-radius: 8px;
+    outline: none;
+}
+
+button:hover {
+    cursor: pointer;
+}

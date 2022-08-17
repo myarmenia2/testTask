@@ -1,0 +1,1 @@
+export const API_PRODUCTS = 'https://random-data-api.com/api/restaurant/random_restaurant?size=100';
